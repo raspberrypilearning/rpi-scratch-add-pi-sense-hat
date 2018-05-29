@@ -1,11 +1,14 @@
-title: rpi-scratch-add-pi-sense-hat
+title: Adding the Pi GPIO extension to Scratch
 hero_image: images/banner.png
-description: rpi-scratch-add-pi-sense-hat description
-version: 4
+description: How to add the Pi GPIO extension to Scratch
+original_url: 
+theme: cc-prototype
+duration: 1
 listed: false
-copyedit: false
-last_tested: "2018-05-29"
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "scratch"
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+  - title: Add Pi GPIO extension
+

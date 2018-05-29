@@ -1,25 +1,20 @@
-## Introduction
+The Pi GPIO extension in Scratch 2 on the Raspberry Pi is needed to control and read input and output components connected to the GPIO pins.
 
-Add project description here. What will learners be making?
+- With Scratch 2 open, click on **More Blocks** in the Scripts menu.
 
-### What you will make
+	![more blocks](images/more_blocks.png)
 
-Add something here to showcase here, for example:
+- Next click on the **Add an Extension** button.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+	![add extension](images/add_extension.png)
+	
+- You can then double-click on the Pi SenseHAT extension to add it.
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+	![pi gpio](images/pi_sense_hat.png)
+	
+- You should now see the Pi SenseHAT blocks in the **More Blocks** section.
 
-### What you will learn
+	![pi gpio blocks](images/pi_sense_blocks.png)
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+	![animation](images/enable-pi-sense-hat.gif)
 
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
