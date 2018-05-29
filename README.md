@@ -1,0 +1,1 @@
+# rpi-scratch-add-pi-sense-hat
